@@ -1,7 +1,18 @@
-.completed {
-    text-decoration: line-through;
+button {
+    border-radius: 20px;
+    color: #fff;
+    background-color: #0066ff;
+
+
+}
+button:hover {
+    background-color: #003399;
 }
 
-.listitem {
-    font-size: 1.3rem;
+div {
+    background-color:#66ccff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
 }
